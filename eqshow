@@ -1,6 +1,6 @@
 #!/usr/bin/env rc
 
-cat | 9 eqn | 9 troff | 9 page -w
+9 eqn | 9 troff | 9 page -w
 
 
 
